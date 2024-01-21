@@ -2,8 +2,8 @@
 	"name" : "reverbGen2",
 	"version" : 1,
 	"creationdate" : 3788394680,
-	"modificationdate" : 3788394708,
-	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
+	"modificationdate" : 3788567847,
+	"viewrect" : [ 56.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"gooff.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
